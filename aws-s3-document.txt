@@ -1,0 +1,11 @@
+AWS Documentation / Amazon Simple Storage Service (S3) / Developer Guide 
+Managing Access Permissions to Your Amazon S3 Resources
+
+Using Bucket Policies and User Policies
+* https://docs.aws.amazon.com/AmazonS3/latest/dev/using-iam-policies.html
+
+Bucket Policy Examples
+** https://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html
+
+Guidelines for Using the Available Access Policy Options
+* https://docs.aws.amazon.com/AmazonS3/latest/dev/access-policy-alternatives-guidelines.html
